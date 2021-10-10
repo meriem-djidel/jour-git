@@ -1,0 +1,20 @@
+.P1 {
+text-shadow: 2px 2px 5px #02ff28;
+font-family:fantasy,georgia;
+font-size:55px;
+text-align:center;
+}
+.tr, tbody{
+color:black;
+font-size:10px
+font-family:georgia;
+}
+tr:hover {
+background-color: #02ff28;
+}
+.table,tr,td,th{
+border:5px solid #02ff28;
+width-left: 50%;
+whdth-right: 50%;
+ border-collapse: collapse;
+}
